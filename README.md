@@ -3,13 +3,16 @@
 
 Infographics is a high customizable extension for making nice presentations with Qlik Sense
 
-##Allows to create your own infographics, dynamic and without web development skills
+Make it visual with no limits creating your own infographics, dynamic and without web development skills
 
-This extension contains a standard presentation format and a trellis one, to create loops of visualizations
+This extension provides also the capability to create trellis charts using native Qlik Sense Visualizations,
+just chose a visualization type and loop for any dimension you want.
 
 ### Version 1
 
 . supported for QS September 2017 or higher versions
+. user guide not available but coming soon
+. user the qvf app example to understand how it works
 
 
 ### Open project
