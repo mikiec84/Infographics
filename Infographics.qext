@@ -1,0 +1,9 @@
+{
+	"name" : "Infographics",
+	"description" : "Make your own Infographic",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "Infographics.jpg",
+	"author": "Ivan Felipe Asensio"
+}
